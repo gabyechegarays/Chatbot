@@ -1,0 +1,7 @@
+C:\Users\gabyt\Documents\ChatSocketServer1\bin\Release\ChatSocketServer1.exe.config
+C:\Users\gabyt\Documents\ChatSocketServer1\bin\Release\ChatSocketServer1.exe
+C:\Users\gabyt\Documents\ChatSocketServer1\bin\Release\ChatSocketServer1.pdb
+C:\Users\gabyt\Documents\ChatSocketServer1\obj\Release\ChatSocketServer1.csproj.AssemblyReference.cache
+C:\Users\gabyt\Documents\ChatSocketServer1\obj\Release\ChatSocketServer1.csproj.CoreCompileInputs.cache
+C:\Users\gabyt\Documents\ChatSocketServer1\obj\Release\ChatSocketServer1.exe
+C:\Users\gabyt\Documents\ChatSocketServer1\obj\Release\ChatSocketServer1.pdb
