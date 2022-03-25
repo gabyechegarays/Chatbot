@@ -175,7 +175,7 @@ namespace chatSocketServer1
                     aws = "Leonardo da Vinci"; break;
                 case string a when aws.Contains("algo"):
                     aws = "Necesito dormir mínimo 4395815669 horas!!!"; break;
-                case string a when aws.Contains("Tempe"):
+                case string a when aws.Contains("Arizona"):
                     lat = aws.Substring(aws.IndexOf(':') + 1, 5);
                     lon = aws.Substring(aws.IndexOf(':', aws.IndexOf(':') + 1) + 1, 5);
                     fororcast = aws.Substring(aws.IndexOf('&') + 1, 8);
